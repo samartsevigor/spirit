@@ -7,11 +7,18 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:gh-pages" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04e96de7-9a7f-4631-b294-682a47bc938b" name="Default Changelist" comment="initial">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +107,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="gh-pages" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -132,5 +151,9 @@
       <screen x="0" y="23" width="1280" height="712" />
     </state>
     <state x="0" y="23" width="982" height="712" key="SettingsEditor/0.23.1280.712@0.23.1280.712" timestamp="1602667990837" />
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2" timestamp="1603098400120">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="240" y="119" key="Vcs.Push.Dialog.v2/0.23.1280.712@0.23.1280.712" timestamp="1603098400120" />
   </component>
 </project>

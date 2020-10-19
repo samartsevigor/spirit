@@ -42,7 +42,8 @@ header{
     transform: scale(1);
 }
 .hero{
-    background-color: #1d2124;
+    background: #000000c7 url("https://s2.best-wallpaper.net/wallpaper/3840x2160/1901/Mountains-peaks-snow-winter_3840x2160.jpg") fixed no-repeat center/cover;
+   background-blend-mode: darken;
 }
 .hero-title{
     color: #999;
