@@ -6,61 +6,19 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:gh-pages" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04e96de7-9a7f-4631-b294-682a47bc938b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/regna.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/brand1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/brand2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/brand3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/brand4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/brand5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/case.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mac.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontello.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/fontello.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/fontello.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/fontello.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/fontello.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/fontello.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/fontello.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/images.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pi9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/regna.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/volcano-3840x2160-fuji-japan-mountains-4k-15829.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="04e96de7-9a7f-4631-b294-682a47bc938b" name="Default Changelist" comment="add readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +84,14 @@
       <workItem from="1602961934530" duration="12000" />
       <workItem from="1603093446904" duration="3945000" />
     </task>
+    <task id="LOCAL-00001" summary="add readme">
+      <created>1603102080972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603102080972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +108,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="513" y="265" key="#File_Watchers" timestamp="1602583503959">
@@ -164,5 +134,9 @@
       <screen x="0" y="23" width="1280" height="712" />
     </state>
     <state x="0" y="23" width="982" height="712" key="SettingsEditor/0.23.1280.712@0.23.1280.712" timestamp="1602667990837" />
+    <state x="240" y="91" key="Vcs.Push.Dialog.v2" timestamp="1603102082855">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="240" y="91" key="Vcs.Push.Dialog.v2/0.23.1280.712@0.23.1280.712" timestamp="1603102082855" />
   </component>
 </project>
